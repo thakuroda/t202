@@ -17,6 +17,6 @@ else if(user == usuario  &&  password != senha){
     alert("Senha incorreta");
 }
 else {
-    alert("Senha e usuário incorretos"); 
+    alert("Usuário e senha incorretos"); 
 }
 }
